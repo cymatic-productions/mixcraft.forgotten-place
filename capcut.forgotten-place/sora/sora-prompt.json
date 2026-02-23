@@ -1,0 +1,28 @@
+{
+  "GptvPromptScene": [
+    {
+      "id": "scene-1",
+      "presetName": "Wintered Divide",
+      "action": "A lone car drives into snowy distance viewed quietly from frosted windowpane",
+      "camera_movement": "Static interior framing with subtle push forward toward receding vehicle"
+    },
+    {
+      "id": "scene-2",
+      "presetName": "Wintered Divide",
+      "action": "Camera reveals couple inside log cabin sipping cocoa beside crackling fireplace",
+      "camera_movement": "Slow lateral pan from window toward warmly lit rustic interior"
+    },
+    {
+      "id": "scene-3",
+      "presetName": "Wintered Divide",
+      "action": "Pan returns outside showing same figures separated by wooden fence conversing",
+      "camera_movement": "Measured pan back to window then gentle rack focus outward"
+    },
+    {
+      "id": "scene-4",
+      "presetName": "Wintered Divide",
+      "action": "Revelation they embody an idea echoing earlier vulnerable proposal inside",
+      "camera_movement": "Subtle dolly inward as snowfall thickens blurring emotional boundaries"
+    }
+  ]
+}
